@@ -14,5 +14,5 @@ We used PyCaret's classification module to train our model specifically Linear D
 
 5. Our model achieved an accuracy of 76% on the test set, with an AUC score of 0.73. We also created visualizations to help illustrate our findings, which you can find in the triage_prediction.ipynb notebook.
 
-Conclusion
-6. Overall, our model performed well in predicting triage severity and recommending appropriate action. However, there is still room for improvement, such as collecting more data or trying different modeling techniques. Continuous Local validation is needed to ensure model reliability
+6. Conclusion
+Overall, our model performed well in predicting triage severity and recommending appropriate action. However, there is still room for improvement, such as collecting more data or trying different modeling techniques. Continuous Local validation is needed to ensure model reliability
